@@ -5,6 +5,11 @@
     "answer": "Hello, my name is Avinash. I have around 2 years of experience working on various full-stack projects using technologies like .NET Core, C#, React.js, SQL Server, and MongoDB. I've been involved in backend API development, frontend integration, performance testing, and CI/CD automation. I'm passionate about building scalable, maintainable applications and have worked across all layers of the stack."
   },
   {
+    "id": 6,
+    "question": " Ira    ira   ira escribe your experience with full-stack development, particularly using C# and React.js?",
+    "answer": "Hello, my name is Avinash. I have around 2 years of experience working on various full-stack projects using technologies like .NET Core, C#, React.js, SQL Server, and MongoDB. I've been involved in backend API development, frontend integration, performance testing, and CI/CD automation. I'm passionate about building scalable, maintainable applications and have worked across all layers of the stack."
+  },
+  {
     "id": 2,
     "question": "The integration between the C# backend and the React.js frontend breaks after a recent code deployment. Outline your debugging process and how you ensure the fix maintains overall system integrity.",
     "answer": "Find the problem: I would check the web browser's developer console and the backend server logs for any error messages. Replicate: I would try to make the problem happen again in a test environment. Identify changes: I would look at the recent code that was deployed. Did an API name change? Was the data format changed? Fix and test: I would create a fix and run automated tests to make sure it works and doesn't break anything else. Deploy: I would push the fix to the staging environment for one last check before deploying it live."
