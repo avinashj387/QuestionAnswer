@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building user interfaces."
+  },
+  {
+    "id": 2,
+    "question": "What are components in React?",
+    "answer": "Components are independent and reusable bits of code that serve as the building blocks of a React application."
+  },
+  {
+    "id": 3,
+    "question": "What is JSX?",
+    "answer": "JSX stands for JavaScript XML. It allows us to write HTML in React."
+  },
+  {
+    "id": 4,
+    "question": "What is a state in React?",
+    "answer": "State is a built-in object that stores property values that belong to a component."
+  },
+  {
+    "id": 5,
+    "question": "What are props in React?",
+    "answer": "Props are inputs to components. They are data passed down from a parent component to a child component."
+  },
+  {
+    "id": 6,
+    "question": "What is useEffect in React?",
+    "answer": "The useEffect Hook lets you perform side effects in function components, such as data fetching or manually changing the DOM."
+  },
+  {
+    "id": 7,
+    "question": "What is Firebase?",
+    "answer": "Firebase is a platform by Google that provides tools and infrastructure to build high-quality apps, including real-time databases."
+  },
+  {
+    "id": 8,
+    "question": "What is Realtime Database in Firebase?",
+    "answer": "It is a cloud-hosted NoSQL database that lets you store and sync data between users in real-time."
+  },
+  {
+    "id": 9,
+    "question": "What is a Hook in React?",
+    "answer": "Hooks are functions that let you use React features like state and lifecycle methods in functional components."
+  },
+  {
+    "id": 10,
+    "question": "How do you pass data between components in React?",
+    "answer": "Data is passed from parent to child components using props."
+  }
+]
