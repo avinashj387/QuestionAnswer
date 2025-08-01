@@ -1,52 +1,17 @@
 [
   {
     "id": 1,
-    "question": "What is React?",
-    "answer": "React is a JavaScript library for building user interfaces."
+    "question": "Tell me about yourself.",
+    "answer": "Hello and very good morning. My name is Avinash Jadhav. I’m from Maharashtra, and I completed my B.Tech. in 2021.\n\nAfter that, I pursued a PG Diploma in Advanced Computing from CDAC, where I strengthened my skills in full-stack development.\n\nI have around 2 years of experience working on various full-stack projects using technologies like .NET Core, C#, React.js, Angular, SQL Server, MySQL, and MongoDB.\n\nSome of the key projects I’ve worked on include:\n\n- Learning Management System – A corporate training platform that handles the entire employee lifecycle, from onboarding to offboarding. I contributed to both frontend development using Angular and React, and backend development using .NET Core APIs. I also worked with SQL Server for data handling.\n\n- News Classifier Application – A user-friendly web app that classifies news articles using machine learning. I developed backend APIs using .NET Core and implemented JWT and OAuth authentication. We used SQL Server for structured data and MongoDB for storing article collections.\n\nI’m passionate about coding, solving real-world problems, and continuously learning new technologies.\n\nIn my free time, I enjoy playing chess."
   },
   {
     "id": 2,
-    "question": "What are components in React?",
-    "answer": "Components are independent and reusable bits of code that serve as the building blocks of a React application."
+    "question": "What is Dependency Injection in .NET Core?",
+    "answer": "Dependency Injection is a design pattern used to achieve loose coupling between classes and their dependencies. In .NET Core, DI is built-in and handled using the Inversion of Control container.\n\nWe register services in the Program.cs file using methods like AddScoped, AddSingleton, or AddTransient depending on the required lifetime.\n\nThen we inject those services into classes using constructor injection.\n\nThis improves maintainability, testability, and follows the principle of separation of concerns. The built-in DI container in .NET Core makes this process simple and clean."
   },
   {
     "id": 3,
-    "question": "What is JSX?",
-    "answer": "JSX stands for JavaScript XML. It allows us to write HTML in React."
-  },
-  {
-    "id": 4,
-    "question": "What is a state in React?",
-    "answer": "State is a built-in object that stores property values that belong to a component."
-  },
-  {
-    "id": 5,
-    "question": "What are props in React?",
-    "answer": "Props are inputs to components. They are data passed down from a parent component to a child component."
-  },
-  {
-    "id": 6,
-    "question": "What is useEffect in React?",
-    "answer": "The useEffect Hook lets you perform side effects in function components, such as data fetching or manually changing the DOM."
-  },
-  {
-    "id": 7,
-    "question": "What is Firebase?",
-    "answer": "Firebase is a platform by Google that provides tools and infrastructure to build high-quality apps, including real-time databases."
-  },
-  {
-    "id": 8,
-    "question": "What is Realtime Database in Firebase?",
-    "answer": "It is a cloud-hosted NoSQL database that lets you store and sync data between users in real-time."
-  },
-  {
-    "id": 9,
-    "question": "What is a Hook in React?",
-    "answer": "Hooks are functions that let you use React features like state and lifecycle methods in functional components."
-  },
-  {
-    "id": 10,
-    "question": "How do you pass data between components in React?",
-    "answer": "Data is passed from parent to child components using props."
+    "question": "How do you debug an issue in a .NET Core Web API project?",
+    "answer": "First, I start by understanding the bug from logs, exception messages. Then I go through the related controller or service code, checking API endpoints, business logic, and data flow. I use breakpoints and debugging tools in Visual Studio to step through the code and inspect variable values. I verify input validation, model binding, and HTTP status codes. I also check for issues like null references, incorrect route parameters, or dependency injection misconfigurations. Once I identify the problem, I fix it by correcting the logic or handling edge cases."
   }
 ]
